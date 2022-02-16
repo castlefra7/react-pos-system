@@ -1,0 +1,13 @@
+/* .inline-style {
+    display: inline-block;
+}
+
+*/
+
+.keypad {
+    margin-top: 17px;
+} 
+
+.inline-style .button {
+    margin: 2px;
+}

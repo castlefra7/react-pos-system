@@ -1,0 +1,17 @@
+.p-style {
+    color: #905527 !important;
+}
+
+.button-style-1 {
+    background-color: #905527 !important;
+    color: white !important;
+}
+
+.button-style {
+    background-color: #905527 !important;
+    color: white !important;
+}
+
+a.ui.card {
+    height: 100%;
+}
